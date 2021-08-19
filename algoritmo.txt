@@ -13,3 +13,17 @@ saindo de casa
 10- saio de casa para a calçada
 11- fora de casa na calçada empurro o portao, fechando-o
 12- coloco o cadeado no portao e o tranco
+
+chegando no mercado 
+
+13- saio da calçada e vou pra rua
+14- viro a direita e sigo reto andando ate o ponto do onibus por 2 min
+15- chegando no ponto aguardo 5min o onibus chegar
+16- onibus chegou
+17- motorista abriu a porta do onibus
+18- cumprimento o motorista e subo no onibus
+19- na segunda fileira sento na cadeira proximo a janela
+20- aguardo 15 min pra chegar no terminal rodoviario
+21- espero o motorista desligar o onibus e abrir a porta
+22- me despeço do motorista e desço do onibus seguindo destino ao mercado
+23- caminho por 3 min ate o supermercado
