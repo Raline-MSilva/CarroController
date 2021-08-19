@@ -45,3 +45,12 @@ saindo do mercado
 35- o caixa me passa o troco e a sacolinha
 36- agradeço, guardo a sacolinha e o dinheiro na bolsa e sigo pra saída do mercado
 37- viro a esquerda e sigo reto para o terminal
+
+chegando em casa
+
+38- vejo meu onibus e sigo ate ele
+39- porta aberta do onibus, subo e sigo para segunda fileira cadeira da janela e sento
+40- aguardo 15 min pra chegar no meu ponto
+41- chegando, agradeço ao motorista e desço 
+42- sigo reto por 2 min ate chegar em casa
+43- abro minha bolsa
