@@ -27,3 +27,21 @@ chegando no mercado
 21- espero o motorista desligar o onibus e abrir a porta
 22- me despeço do motorista e desço do onibus seguindo destino ao mercado
 23- caminho por 3 min ate o supermercado
+
+saindo do mercado
+
+24- sigo reto ate o compartimento de frutas
+25- vejo as maças
+26- pego uma sacolinha ao lado delas
+27- abro a sacolinha, pego UMA maça e ponho dentro da sacolinha
+28- amarro a sacolinha e saio do compartimento das frutas
+29- sigo reto para o caixa
+30- chegando no caixa há 2 pessoas na fila
+31- fico na fila aguardando minha vez
+32- chegando minha vez comprimento a pessoa do caixa
+32- ponho minha sacolinha na mesa do caixa
+33- a pessoa do caixa pega minha sacolinha digita um codigo no pc e me diz o valor
+34- pego minha bolsa abro-a pego a carteira abro-a pego o dinheiro e dou ao caixa
+35- o caixa me passa o troco e a sacolinha
+36- agradeço, guardo a sacolinha e o dinheiro na bolsa e sigo pra saída do mercado
+37- viro a esquerda e sigo reto para o terminal
